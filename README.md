@@ -12,6 +12,7 @@ This repo lists books and learning resources that I find helpful for getting a d
 * Deep Learning
 * Convex optimization
 
-## Software engineering
+## Software engineering and model implementation
 * Clean code
 * Data Structures and Algorithms in Python
+* Spinningup: https://spinningup.openai.com/en/latest/index.html
