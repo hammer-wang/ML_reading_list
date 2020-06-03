@@ -14,3 +14,4 @@ This repo lists books and learning resources that I find helpful for getting a d
 
 ## Software engineering
 * Clean code
+* Data Structures and Algorithms in Python
